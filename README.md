@@ -10,7 +10,7 @@ In the following figure, we can see how the values of the one-sample t-tests cha
 4. OLS.
 
 <p align="center">
-<img src="https://github.com/angeella/mds_fMRI/blob/readme-edits/plot_sub1_run1_pca.png" width="400px" height="300px"/>
+<img src="https://github.com/angeella/Group_fMRI_Analysis/tree/master/Images/zstat_check_tot.png" width="400px" height="300px"/>
 </p>
 
 (TODO)
